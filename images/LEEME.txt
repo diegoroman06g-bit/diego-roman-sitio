@@ -1,0 +1,4 @@
+Fotos de esta carpeta (todas con extension .jpeg):
+portada.jpeg (horizontal), diego.jpeg,
+foto1.jpeg a foto5.jpeg (portafolio),
+deporte1.jpeg a deporte3.jpeg, sesion1.jpeg a sesion3.jpeg
